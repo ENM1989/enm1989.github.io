@@ -11,3 +11,8 @@ layout: default
     Geschrieben am: {{ page.date | date "%B %e, %Y" }}
   </div>
 </article>
+
+<footer class="footer">
+  {% if site.footer-links.github %}<a href="http://github.com/{{ site.footer-links.github }}"</a>{% endif %}
+  {% if site.footer-links.twitter %}<a href="http://twitter.com/{{ site.footer-links.twitter }}"</a>{% endif %}
+</footer>
