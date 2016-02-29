@@ -8,4 +8,4 @@ categories: blog
 Dies ist der erste Eintrag des Blogs "Der Entwickler".   
 In diesem Blog werde ich meine Gedanken aufschreiben, welche mich als Entwickler umtreiben.
 
-steady. ready. $application->run();
+ready. steady. $application->run();
