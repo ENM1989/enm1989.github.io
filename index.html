@@ -5,7 +5,7 @@ layout: default
 <ul>
   {% for post in site.posts %}
     <li>
-      <span>{{ post.date | date: "%b %-d, %Y" }}</span>
+      <span>{{ post.date | date: "%d.%m.%Y" }}</span>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>
   {% endfor %}
