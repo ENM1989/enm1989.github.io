@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Der Entwickler</title>
+    <title>DevCore</title>
     <description>Die Gedanken eines Entwicklers in Schriftform.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Feb 2016 22:00:37 +0100</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 22:00:37 +0100</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 23:21:35 +0100</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 23:21:35 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>$application-&gt;run();</title>
-        <description>&lt;p&gt;Dies ist der erste Eintrag des Blogs “Der Entwickler”. &lt;br /&gt;
+        <description>&lt;p&gt;Dies ist der erste Eintrag des Blogs DevCore. &lt;br /&gt;
 In diesem Blog werde ich meine Gedanken aufschreiben, welche mich als Entwickler umtreiben.&lt;/p&gt;
 
-&lt;p&gt;steady. ready. $application-&amp;gt;run();&lt;/p&gt;
+&lt;p&gt;ready. steady. $application-&amp;gt;run();&lt;/p&gt;
 </description>
         <pubDate>Mon, 29 Feb 2016 00:00:00 +0100</pubDate>
         <link>/blog/2016/02/29/application-run/</link>
