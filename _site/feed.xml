@@ -5,9 +5,56 @@
     <description>Die Gedanken eines Entwicklers in Schriftform.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 29 Feb 2016 23:57:53 +0100</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 23:57:53 +0100</lastBuildDate>
+    <pubDate>Wed, 09 Mar 2016 19:26:27 +0100</pubDate>
+    <lastBuildDate>Wed, 09 Mar 2016 19:26:27 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Passion beats Money</title>
+        <description>&lt;p&gt;Wie wird man ein guter Entwickler? &lt;br /&gt;
+Ich meine so richtig gut.&lt;/p&gt;
+
+&lt;p&gt;Wenn dein einziges Ziel darin besteht Entwickler zu werden, nur um viel Geld zu verdienen, dann hast du bereits verloren. &lt;br /&gt;
+Andere werden auf lange Sicht besser sein als du.&lt;/p&gt;
+
+&lt;p&gt;Diese Erkenntnis gilt nicht nur für den Beruf des Entwicklers, sondern für alle Berufe.&lt;/p&gt;
+
+&lt;p&gt;Aber wie werde ich denn jetzt gut?&lt;/p&gt;
+
+&lt;p&gt;Beantworte hierzu folgende Fragen: &lt;br /&gt;
+1. Besitzt du eine Leidenschaft für eine bestimmte Tätigkeit? &lt;br /&gt;
+2. Übt diese Tätigkeit eine Faszination auf dich aus, die dich nicht wieder loslässt? &lt;br /&gt;
+3. Bereitet dir diese Tätigkeit Freude?&lt;/p&gt;
+
+&lt;p&gt;Wenn es etwas in deinem Leben gibt, bei dem jeder dieser Punkte zutrifft, dann hast du etwas gefunden, auf dem du aufbauen kannst. &lt;br /&gt;
+Geld allein wird nicht dafür sorgen, dass du jeden Tag versuchen wirst, besser und besser zu werden.&lt;/p&gt;
+
+&lt;p&gt;Und wie werde ich jetzt ein guter Entwickler?&lt;/p&gt;
+
+&lt;p&gt;Beantworte hierzu folgende Fragen: &lt;br /&gt;
+1. Setzt du dir regelmäßig neue Ziele? &lt;br /&gt;
+2. Bist du neuem gegenüber aufgeschlossen? &lt;br /&gt;
+3. Hast du Spaß daran, neues zu lernen?&lt;/p&gt;
+
+&lt;p&gt;Wenn du diese Punkte mit “ja” beantworten kannst, dann besitzt du bereits einige der Eigenschaften die es braucht, um ein guter Entwickler zu werden. &lt;br /&gt;
+Ich meine, ein richtig guter Entwickler.&lt;/p&gt;
+
+&lt;p&gt;Denke immer an folgenden Satz: &lt;br /&gt;
+Viele Menschen warten ihr ganzes Leben darauf das jemand ihnen sagt, was sie tun sollen. &lt;br /&gt;
+Aber einen solchen Menschen gibt es nicht.&lt;/p&gt;
+
+&lt;p&gt;Du musst einfach anfangen.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 09 Mar 2016 00:00:00 +0100</pubDate>
+        <link>/passion/success/2016/03/09/passion-beats-money/</link>
+        <guid isPermaLink="true">/passion/success/2016/03/09/passion-beats-money/</guid>
+        
+        
+        <category>passion</category>
+        
+        <category>success</category>
+        
+      </item>
     
       <item>
         <title>$application-&gt;run();</title>
