@@ -34,7 +34,7 @@ Wenn du diese Punkte mit "ja" beantworten kannst, dann besitzt du bereits einige
 Ich meine, ein richtig guter Entwickler.   
 
 Denke immer an folgenden Satz:   
-Viele Menschen warten ihr ganzes Leben darauf das jemand ihnen sagt, was sie tun sollen.   
+Viele Menschen warten ihr ganzes Leben darauf das ihnen jemand sagt, was sie tun sollen.   
 Aber einen solchen Menschen gibt es nicht.   
 
 Du musst einfach anfangen.
