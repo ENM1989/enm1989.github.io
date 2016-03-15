@@ -5,9 +5,49 @@
     <description>Die Gedanken eines Entwicklers in Schriftform.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 14 Mar 2016 23:55:34 +0100</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 23:55:34 +0100</lastBuildDate>
+    <pubDate>Tue, 15 Mar 2016 22:35:49 +0100</pubDate>
+    <lastBuildDate>Tue, 15 Mar 2016 22:35:49 +0100</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>A Tribute to Nerdcore</title>
+        <description>&lt;p&gt;Vor ein Paar Jahren noch verging kein Tag, &lt;br /&gt;
+an dem mich mein täglicher Ritt ins Internet nicht zu &lt;a href=&quot;http://nerdcore.de&quot; target=&quot;_blank&quot;&gt;nerdcore.de&lt;/a&gt; führte. &lt;br /&gt;
+Glaub mir, Ritt war der absolut richtige Begriff dafür.&lt;/p&gt;
+
+&lt;p&gt;Ich wuchs in einem sterbenden Dorf in Sachsen-Anhalt auf. &lt;br /&gt;
+Wir überwanden lange Zeit die Grenze zum Neuland mit einem 56K-Modem. &lt;br /&gt;
+Ich erinnere mich noch an die erste Rechnung die wir erhielten. &lt;br /&gt;
+Danach wurde der Zugang zum Internet fest geregelt.&lt;/p&gt;
+
+&lt;p&gt;Irgendwann wurde dann zum Glück ein UMTS-Stick angeschafft. &lt;br /&gt;
+Dieser musste lediglich an der einzigen Stelle im gesamten Haus Stelle ausreichend Empfang platziert werden. &lt;br /&gt;
+Ein Gefühl der grenzenlosen Freiheit machte sich breit. &lt;br /&gt;
+Endlich musste man keine Angst mehr vor unbezahlbaren Rechnungen haben.&lt;/p&gt;
+
+&lt;p&gt;Ich kann nicht mehr sagen, wie ich damals auf Nerdcore stieß. &lt;br /&gt;
+Aber als pubertierender jugendlicher, der gerade seine ersten Schritte im Neuland und Developer werden wollte, musste ich wohl unweigerlich auf diese Seite stoßen.&lt;/p&gt;
+
+&lt;p&gt;Ich war elektrifiziert vom ersten Tag an. &lt;br /&gt;
+Ich verpasste keinen einzigen Eintrag. &lt;br /&gt;
+Nerdcore war Pflicht.&lt;/p&gt;
+
+&lt;p&gt;Die Vielfalt an Themen gab mir einen kreativen Schub. &lt;br /&gt;
+Mein Gehirn reißte von einer Idee zur nächsten. &lt;br /&gt;
+Es war eine wunderbare Zeit.&lt;/p&gt;
+
+&lt;p&gt;Danke, für dieses Stück Internetkultur.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2016 00:00:00 +0100</pubDate>
+        <link>/blog/nerd/2016/03/15/a-tribute-to-nerdcore/</link>
+        <guid isPermaLink="true">/blog/nerd/2016/03/15/a-tribute-to-nerdcore/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>nerd</category>
+        
+      </item>
     
       <item>
         <title>Passion beats Money</title>
