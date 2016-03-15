@@ -15,7 +15,7 @@ Ich erinnere mich noch an die erste Rechnung die wir erhielten.
 Danach wurde der Zugang zum Internet fest geregelt.   
 
 Irgendwann wurde dann zum Glück ein UMTS-Stick angeschafft.   
-Dieser musste lediglich an der einzigen Stelle im gesamten Haus Stelle ausreichend Empfang platziert werden.   
+Dieser musste lediglich an der einzigen Stelle im gesamten Haus mit ausreichend Empfang platziert werden.   
 Ein Gefühl der grenzenlosen Freiheit machte sich breit.   
 Endlich musste man keine Angst mehr vor unbezahlbaren Rechnungen haben.   
 
