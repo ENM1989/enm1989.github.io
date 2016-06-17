@@ -11,7 +11,7 @@ Die zusätzlichen Treffer werden aus der eigenen Datenbank bezogen, welche durch
 die Anwender von Refind stetig mit weiteren Themen befüllt wird.   
 
 Möchte man Refind nutzen, so muss zunächst ein Twitter-Account angelegt werden,
-über welchen man sich bei refind.com anmelden kann.   
+über welchen man sich bei [refind.com](https://www.refind.com) anmelden kann.   
 
 Twitter dient hierbei gleichzeitig als größte Quelle an Themen,
 die der Datenbank von Refind hinzugefügt werden.   
