@@ -5,9 +5,47 @@
     <description>Die Gedanken eines Entwicklers in Schriftform.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 13 Jun 2016 08:01:14 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jun 2016 08:01:14 +0200</lastBuildDate>
+    <pubDate>Fri, 17 Jun 2016 21:49:59 +0200</pubDate>
+    <lastBuildDate>Fri, 17 Jun 2016 21:49:59 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>Refind: Google On Steroids</title>
+        <description>&lt;p&gt;Refind ist ein Tool, welches die Suchergebnisse von Google anreichert.&lt;/p&gt;
+
+&lt;p&gt;Die zusätzlichen Treffer werden aus der eigenen Datenbank bezogen, welche durch
+die Anwender von Refind stetig mit weiteren Themen befüllt wird.&lt;/p&gt;
+
+&lt;p&gt;Möchte man Refind nutzen, so muss zunächst ein Twitter-Account angelegt werden,
+über welchen man sich bei refind.com anmelden kann.&lt;/p&gt;
+
+&lt;p&gt;Twitter dient hierbei gleichzeitig als größte Quelle an Themen,
+die der Datenbank von Refind hinzugefügt werden.&lt;/p&gt;
+
+&lt;p&gt;Es gilt: &lt;br /&gt;
+&lt;em&gt;Jeder Tweet, der einen Link enthält wird in der Datenbank von Refind aufgenommen.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nach erfolgreicher Anmeldung muss nun das jeweilige Browser-Plugin installiert werden,
+über welches ebenfalls neue Themen zu Refind hinzugefügt werden können.&lt;/p&gt;
+
+&lt;p&gt;Über das Plugin kann das jeweilige Thema mit Tags versehen werden, wodurch
+dieses über die Suchbegriffe in Google gefunden werden kann.&lt;/p&gt;
+
+&lt;p&gt;Bei einer Suche zeigt Refind hierbei die Themen an, welche von den Usern am häufigsten
+hinzugefügt wurden.&lt;/p&gt;
+
+&lt;p&gt;Probier es einfach einmal aus.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 17 Jun 2016 00:00:00 +0200</pubDate>
+        <link>/google/refind/2016/06/17/google-on-steroids/</link>
+        <guid isPermaLink="true">/google/refind/2016/06/17/google-on-steroids/</guid>
+        
+        
+        <category>google</category>
+        
+        <category>refind</category>
+        
+      </item>
     
       <item>
         <title>Cowboycoder</title>
