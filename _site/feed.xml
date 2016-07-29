@@ -5,9 +5,50 @@
     <description>Die Gedanken eines Entwicklers in Schriftform.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 17 Jun 2016 22:00:11 +0200</pubDate>
-    <lastBuildDate>Fri, 17 Jun 2016 22:00:11 +0200</lastBuildDate>
+    <pubDate>Fri, 29 Jul 2016 20:18:09 +0200</pubDate>
+    <lastBuildDate>Fri, 29 Jul 2016 20:18:09 +0200</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>The Long Tail</title>
+        <description>&lt;p&gt;Ein Händler besitzt mehrere Produkte.
+Ein Paar wenige dieser Produkte verkaufen sich sehr gut.
+Ein großer Teil des Umsatzes wird aus den Verkäufen dieser Produkte generiert.
+Die meisten Produkte werden jedoch in geringer Stückzahl verkauft..
+Die Anzahl der verkauften Einheiten dieser Produkte ist in ihrer Gesamtheit jedoch so groß,
+dass diese zusammengenommen sehr profitabel sind.
+Diese Produkte bilden den “Long Tail”.&lt;/p&gt;
+
+&lt;p&gt;Es können jedoch nicht nur direkte Verkäufe, sondern auch Texte, Streams etc. als “Long Tail” angesehen werden.&lt;/p&gt;
+
+&lt;p&gt;Ein Beispiel eines “Long Tail” ist das Angebot eines Streamingdienstes wie &lt;a href=&quot;http://hearthis.at&quot; target=&quot;_blank&quot;&gt;hearthis.at&lt;/a&gt;.
+Neben bekannten Titeln, welche häufig gestreamed werden und somit die höchsten Einnahmen generieren,
+bietet dieser Streamingdienst ein großes Portfolio an Titeln unbekannter Künstler an, welche den Großteil des Angebots ausmachen.&lt;/p&gt;
+
+&lt;p&gt;Titel, welche in geringer Stückzahl gestreamed werden,
+können dennoch in ihrer Gesamtheit einen Großteil des Umsatzes ausmachen.
+Des Weiteren sind Effekte zu beachten, durch welche Kunden erst durch einen solchen “Long Tail”-Titel auf andere Titel aufmerksam werden,
+da sie nach einem bestimmten Nischentitel suchten.&lt;/p&gt;
+
+&lt;p&gt;Der “Long Tail” ist lediglich in Online Businessen rentabel zu betreiben.
+Physische Stores, welche ihre Produkte die gesamte Zeit vorhalten müssen,
+besitzen den Nachteil der Lagerkosten für jedes physische Gut, dass sie verkaufen möchten.
+In Online Businessen liegt jedoch ein sogenanntes “infinite shelf” vor.
+Eine unendliche Warentheke, die jeder physischen Warentheke überlegen und immer reich gefüllt ist.&lt;/p&gt;
+
+&lt;p&gt;Hierbei können unendlich viele Kopien eines Titels an Kunden verteilen.
+Die Kosten, welche der Speicher für einen solchen Titel beträgt, liegen hierbei im Cent-Bereich.&lt;/p&gt;
+
+&lt;p&gt;Zu diesem Thema empfehle ich euch das Buch &lt;a href=&quot;https://www.amazon.de/Long-Tail-lange-Schwanz/dp/3446409904&quot; target=&quot;_blank&quot;&gt;The Long Tail&lt;/a&gt; von Chris Anderson.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jul 2016 00:00:00 +0200</pubDate>
+        <link>/ecommerce/2016/07/29/the-long-tail/</link>
+        <guid isPermaLink="true">/ecommerce/2016/07/29/the-long-tail/</guid>
+        
+        
+        <category>ecommerce</category>
+        
+      </item>
     
       <item>
         <title>Refind: Google On Steroids</title>
